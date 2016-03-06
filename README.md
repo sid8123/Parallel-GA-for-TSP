@@ -1,2 +1,2 @@
 # Parallel-GA-for-TSP
-Comparision of parallel and distributed GA for TSP problem
+Comparision of parallel and centralized GA for TSP problem
